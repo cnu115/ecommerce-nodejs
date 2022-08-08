@@ -6,7 +6,7 @@ demo APIs for add products, update products and delete products
 Dillinger uses a number of open source projects to work properly:
 
 - [node.js](https://nodejs.org/) - evented I/O for the backend
-- [Express](https://expressjs.com/) - fast node.js network app framework [@tjholowaychuk]
+- [Express](https://expressjs.com/) - fast node.js network app framework
 - [sequelize](https://sequelize.org/docs/v6/) - Sequelize is a promise-based Node.js ORM tool.
 - [nodemon](https://www.npmjs.com/package/nodemon) - nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
