@@ -3,7 +3,7 @@ demo APIs for add products, update products and delete products
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+It uses a number of open source projects to work properly:
 
 - [node.js](https://nodejs.org/) - evented I/O for the backend
 - [Express](https://expressjs.com/) - fast node.js network app framework
